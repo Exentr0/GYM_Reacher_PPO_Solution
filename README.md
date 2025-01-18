@@ -17,8 +17,8 @@ The **PPO Reacher Solution** demonstrates the application of **Proximal Policy O
 
 ## Results
 
-- **1000 training episodes**
+**1000 training episodes**
 ![Alt text](Results/result_1000_episoed.png)
 
-- **10 000 training episodes**
-![Alt text](Results/result_10000_episoed.png)
+**10 000 training episodes**
+![Alt text](Results/result_10000_episodes.png)
